@@ -8,6 +8,7 @@
 
 ### LLM
 #### Transformers
+- [#HuggingFace] [🤗 LLM Course](https://huggingface.co/learn/llm-course/en/chapter1/1?fw=pt)
 - [#HuggingFace] [🤗 Transformers Notebooks](https://huggingface.co/docs/transformers/en/notebooks)
 - [#HuggingFace] [🤗 Tokeniziers](https://huggingface.co/learn/llm-course/chapter2/4?fw=pt#tokenizers)
 - [B站 #Attention #PyTorch] [吴恩达同步最新AI课 第67讲：Transformer核心Attention机制全解构（PyTorch逐行代码实现）| DeepLearning出品](https://www.bilibili.com/video/BV1PFKJeTEDa/?spm_id_from=333.337.search-card.all.click&vd_source=8326f298abab48f7457a5ca49fe4c335) 
