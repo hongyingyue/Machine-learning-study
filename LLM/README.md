@@ -1,5 +1,18 @@
 
+# Tokenizor
+- Word based
+- Character based
+- Subword tokenization
+  - WordPiece, as used in BERT
+  - Byte-level BPE, as used in GPT-2
+  - SentencePiece or Unigram, as used in several multilingual models
 
+# Model
+
+## Llama
+Developed by Meta.
+
+[The Llama 3 Herd of Models](https://arxiv.org/pdf/2407.21783)
 
 ## BERT Family
 
@@ -41,3 +54,12 @@ Developed by Microsoft.
 |-----------|----------------------------------|------------------|
 | **RoBERTa** | More data + dynamic masking       | More robust than BERT |
 | **DeBERTa** | Disentangled attention + better position encoding | Outperforms RoBERTa |
+
+## Others
+- Models have different supported sequence lengths, and some specialize in handling very long sequences. **Longformer** is one example, and another is **LED**.
+
+
+# Evaluation
+
+## [GLUE](https://gluebenchmark.com/)
+The General Language Understanding Evaluation (GLUE) benchmark is a collection of resources for training, evaluating, and analyzing natural language understanding systems.
