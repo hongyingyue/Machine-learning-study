@@ -3,6 +3,7 @@
 ## 学习资料
 
 ### ML
+- [scikit-learn User Guide](https://scikit-learn.org/stable/user_guide.html)
 - [Course Note] CS239
 - [B站][【高清重制】2025年公认最好的【吴恩达机器学习课程】附课件、代码及实战项目！！！--人工智能/机器学习/深度学习](https://www.bilibili.com/video/BV1owrpYKEtP?spm_id_from=333.788.videopod.episodes&vd_source=8326f298abab48f7457a5ca49fe4c335)
 

@@ -1,4 +1,9 @@
 
+# To Do
+- [ ] Train arbitray layers of a network
+
+
+
 # Tokenizor
 - Word based
 - Character based
