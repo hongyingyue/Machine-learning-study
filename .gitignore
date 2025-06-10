@@ -1,3 +1,8 @@
 **/venv/
 
 *.pkl
+
+.env
+.DS_Store
+
+quick_use.ipynb

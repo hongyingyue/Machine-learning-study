@@ -1,0 +1,50 @@
+2025-04-21 23:40:09,521:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-04-21 23:40:09,521:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-04-21 23:40:09,521:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-04-21 23:40:09,521:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-04-21 23:40:17,627:INFO:PyCaret ClassificationExperiment
+2025-04-21 23:40:17,627:INFO:Logging name: clf-default-name
+2025-04-21 23:40:17,627:INFO:ML Usecase: MLUsecase.CLASSIFICATION
+2025-04-21 23:40:17,627:INFO:version 3.3.2
+2025-04-21 23:40:17,627:INFO:Initializing setup()
+2025-04-21 23:40:17,627:INFO:self.USI: 3278
+2025-04-21 23:40:17,627:INFO:self._variable_keys: {'gpu_param', 'seed', 'X_train', 'X_test', 'target_param', 'memory', 'n_jobs_param', 'USI', 'y_train', 'is_multiclass', 'pipeline', 'fold_shuffle_param', '_ml_usecase', 'X', 'fold_groups_param', 'idx', 'log_plots_param', '_available_plots', 'data', 'gpu_n_jobs_param', 'logging_param', 'exp_id', 'html_param', 'fix_imbalance', 'y_test', 'y', 'exp_name_log', 'fold_generator'}
+2025-04-21 23:40:17,627:INFO:Checking environment
+2025-04-21 23:40:17,627:INFO:python_version: 3.9.22
+2025-04-21 23:40:17,628:INFO:python_build: ('main', 'Apr  8 2025 15:21:55')
+2025-04-21 23:40:17,628:INFO:machine: arm64
+2025-04-21 23:40:17,628:INFO:platform: macOS-14.4.1-arm64-arm-64bit
+2025-04-21 23:40:17,628:INFO:Memory: svmem(total=8589934592, available=1591738368, percent=81.5, used=3032825856, free=142049280, active=1463451648, inactive=1412071424, wired=1569374208)
+2025-04-21 23:40:17,628:INFO:Physical Core: 8
+2025-04-21 23:40:17,628:INFO:Logical Core: 8
+2025-04-21 23:40:17,628:INFO:Checking libraries
+2025-04-21 23:40:17,628:INFO:System:
+2025-04-21 23:40:17,628:INFO:    python: 3.9.22 (main, Apr  8 2025, 15:21:55)  [Clang 16.0.0 (clang-1600.0.26.6)]
+2025-04-21 23:40:17,628:INFO:executable: /opt/homebrew/opt/python@3.9/bin/python3.9
+2025-04-21 23:40:17,628:INFO:   machine: macOS-14.4.1-arm64-arm-64bit
+2025-04-21 23:40:17,628:INFO:PyCaret required dependencies:
+2025-04-21 23:40:45,880:INFO:PyCaret ClassificationExperiment
+2025-04-21 23:40:45,881:INFO:Logging name: clf-default-name
+2025-04-21 23:40:45,881:INFO:ML Usecase: MLUsecase.CLASSIFICATION
+2025-04-21 23:40:45,881:INFO:version 3.3.2
+2025-04-21 23:40:45,881:INFO:Initializing setup()
+2025-04-21 23:40:45,881:INFO:self.USI: 748f
+2025-04-21 23:40:45,882:INFO:self._variable_keys: {'gpu_param', 'seed', 'X_train', 'X_test', 'target_param', 'memory', 'n_jobs_param', 'USI', 'y_train', 'is_multiclass', 'pipeline', 'fold_shuffle_param', '_ml_usecase', 'X', 'fold_groups_param', 'idx', 'log_plots_param', '_available_plots', 'data', 'gpu_n_jobs_param', 'logging_param', 'exp_id', 'html_param', 'fix_imbalance', 'y_test', 'y', 'exp_name_log', 'fold_generator'}
+2025-04-21 23:40:45,882:INFO:Checking environment
+2025-04-21 23:40:45,882:INFO:python_version: 3.9.22
+2025-04-21 23:40:45,882:INFO:python_build: ('main', 'Apr  8 2025 15:21:55')
+2025-04-21 23:40:45,882:INFO:machine: arm64
+2025-04-21 23:40:45,882:INFO:platform: macOS-14.4.1-arm64-arm-64bit
+2025-04-21 23:40:45,883:INFO:Memory: svmem(total=8589934592, available=1297776640, percent=84.9, used=3283943424, free=37797888, active=1269923840, inactive=1251999744, wired=2014019584)
+2025-04-21 23:40:45,883:INFO:Physical Core: 8
+2025-04-21 23:40:45,883:INFO:Logical Core: 8
+2025-04-21 23:40:45,883:INFO:Checking libraries
+2025-04-21 23:40:45,883:INFO:System:
+2025-04-21 23:40:45,883:INFO:    python: 3.9.22 (main, Apr  8 2025, 15:21:55)  [Clang 16.0.0 (clang-1600.0.26.6)]
+2025-04-21 23:40:45,883:INFO:executable: /opt/homebrew/opt/python@3.9/bin/python3.9
+2025-04-21 23:40:45,883:INFO:   machine: macOS-14.4.1-arm64-arm-64bit
+2025-04-21 23:40:45,883:INFO:PyCaret required dependencies:
