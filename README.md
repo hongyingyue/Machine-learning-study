@@ -7,6 +7,9 @@
 - [Course Note] CS239
 - [B站][【高清重制】2025年公认最好的【吴恩达机器学习课程】附课件、代码及实战项目！！！--人工智能/机器学习/深度学习](https://www.bilibili.com/video/BV1owrpYKEtP?spm_id_from=333.788.videopod.episodes&vd_source=8326f298abab48f7457a5ca49fe4c335)
 
+### MLOps
+- [Machine Learning Operations (MLOps) For Beginners](https://towardsdatascience.com/machine-learning-operations-mlops-for-beginners-a5686bfe02b2/)
+
 ### LLM
 #### ChatGPT
 - [B站 #OpenAI #Prompt] [(超爽中英!) 2025吴恩达最好的【提示词工程师】教程！附课件代码 DeepLearning.AI_大模型_LLM_Prompt](https://www.bilibili.com/video/BV1b4A6etEJu?spm_id_from=333.788.videopod.episodes&vd_source=8326f298abab48f7457a5ca49fe4c335)

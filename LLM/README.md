@@ -68,3 +68,9 @@ Developed by Microsoft.
 
 ## [GLUE](https://gluebenchmark.com/)
 The General Language Understanding Evaluation (GLUE) benchmark is a collection of resources for training, evaluating, and analyzing natural language understanding systems.
+
+
+# Fine Tuning
+
+## LoRA
+![alt text](image.png)
